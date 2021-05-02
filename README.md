@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 
-[![Twitter Badge](https://img.shields.io/badge/-@ilyagruzhevski-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ilyagruzhevski)](https://twitter.com/ilyagruzhevski)
+[![Twitter Badge](https://img.shields.io/badge/-@ilyagruzhevski-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ilyagruzhevski)](https://twitter.com/ilyagruzhevski)
 [![Linkedin Badge](https://img.shields.io/badge/-IlyaGruzhevski-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/ilya-gruzhevski/)](https://www.linkedin.com/in/ilya-gruzhevski)
 [![Blog Badge](https://img.shields.io/badge/-Website-daa520?style=flat&link=https://ilyagru.github.io/)](https://ilyagru.github.io/)
 
