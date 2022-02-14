@@ -11,7 +11,7 @@ Senior developer with diversified experience in different domains. I can efficie
 
 ## Currently working on
 
-- https://gistasy.com
+- Looking for a co-founder to start next Apple.
 
 ## Stats
 
