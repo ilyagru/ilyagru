@@ -1,7 +1,7 @@
 # Yo 👋🏻
 
 [![Twitter Badge](https://img.shields.io/badge/-@ilyagruu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ilyagruu)](https://twitter.com/ilyagruu)
-[![Linkedin Badge](https://img.shields.io/badge/-IlyaGruzhevski-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/ilyagru/)](https://www.linkedin.com/in/ilyagru)
+[![Linkedin Badge](https://img.shields.io/badge/-ilyagru-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/ilyagru/)](https://www.linkedin.com/in/ilyagru)
 [![YC Badge](https://img.shields.io/badge/-YCombinator-FB651E?style=flat&link=https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)](https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)
 [![Blog Badge](https://img.shields.io/badge/-Website-daa520?style=flat&link=https://ilyagru.github.io/)](https://ilyagru.github.io/)
 
