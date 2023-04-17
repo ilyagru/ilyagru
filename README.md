@@ -15,6 +15,7 @@ Languages and art adorer.
 
 ## Currently working on
 
+- Micro-consulting.
 - Looking for a co-founder to start next Apple.
 - AI language learning research.
 
