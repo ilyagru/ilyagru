@@ -15,7 +15,7 @@ Languages and art adorer.
 
 ## Currently working on
 
-- [webappboost.com](https://webappboostc.com) - Powerful SaaS project Nextjs template.
+- [webappboost.com](https://webappboost.com) - Powerful SaaS project Nextjs template.
 - [ilyagru.com](https://ilyagru.com) - Software Development Consulting.
 - Looking for a co-founder to start next Apple.
 - AI language learning research.
