@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ilyagruu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ilyagruu)](https://twitter.com/ilyagruu)
 [![Linkedin Badge](https://img.shields.io/badge/-ilyagru-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/ilyagru/)](https://www.linkedin.com/in/ilyagru)
 [![YC Badge](https://img.shields.io/badge/-YCombinator-FB651E?style=flat&link=https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)](https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)
-[![Blog Badge](https://img.shields.io/badge/-ilyagru.com-10b981?style=flat&link=https://ilyagru.com/)](https://ilyagru.com/)
+[![Website Badge](https://img.shields.io/badge/-ilyagru.com-000000?style=flat&link=https://ilyagru.com/)](https://ilyagru.com/)
 
 ## About me
 
