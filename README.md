@@ -15,8 +15,8 @@ Languages and art adorer.
 
 ## Currently working on
 
-- [globallybased.com](https://globallybased.com) - Beyond-borders newsletter for modern travellers & global citizens.
-- [webappboost.com](https://webappboost.com) - Powerful SaaS project Nextjs template.
+- [globallybased.com](https://globallybased.com) - Beyond-borders platform & newsletter for modern travellers & global citizens.
+- [webappboost.com](https://webappboost.com) - Powerful Nextjs template for SaaS projects.
 - [ilyagru.com](https://ilyagru.com) - Software Development Consulting.
 - Looking for a co-founder to start next Apple.
 - AI language learning research.
