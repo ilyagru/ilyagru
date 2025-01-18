@@ -7,7 +7,7 @@
 
 ## About me
 
-Founder & Lead/Senior high-end developer & consultant with professional experience in different domains who lives and works in Europe building nice things. I can efficiently work with Front End, React Native, iOS, even Back End if necessary, I have great knowledge of UI/UX and Accessibility standards. I have expertise in the start-up ecosystem mainly by having had my own projects. My total time in IT is ~10 years now, most of the time I work with React and mobile apps. 
+Founder & Lead/Senior product engineer & consultant with professional experience in different domains who lives and works in Europe building inventive things. I can efficiently work with Front End, React Native, iOS, even Back End if necessary, I have great knowledge of UI/UX and Accessibility standards. I have expertise in the start-up ecosystem mainly by having had my own projects. My total time in IT is ~10 years now, most of the time I work with React and mobile apps. 
 
 Quality and purpose mean all to me. 
 
