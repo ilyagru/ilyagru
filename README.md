@@ -1,23 +1,24 @@
 # Yo 👋🏻
 
-[![Twitter Badge](https://img.shields.io/badge/-@ilyagruu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ilyagruu)](https://twitter.com/ilyagruu)
-[![Linkedin Badge](https://img.shields.io/badge/-ilyagru-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/ilyagru/)](https://www.linkedin.com/in/ilyagru)
-[![YC Badge](https://img.shields.io/badge/-YCombinator-FB651E?style=flat&link=https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)](https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)
+[![Twitter Badge](https://img.shields.io/badge/X-@ilyagruu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ilyagruu)](https://twitter.com/ilyagruu)
+[![Linkedin Badge](https://img.shields.io/badge/In-ilyagru-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/ilyagru/)](https://www.linkedin.com/in/ilyagru)
+[![Bento Badge](https://img.shields.io/badge/bento-ilyagru-768cff?style=flat&logo=Linkedin&link=https://bento.me/ilyagru)](https://bento.me/ilyagru)
+[![YC Badge](https://img.shields.io/badge/-YC_Cofounder-FB651E?style=flat&link=https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)](https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)
 [![Website Badge](https://img.shields.io/badge/-ilyagru.com-000000?style=flat&link=https://ilyagru.com/)](https://ilyagru.com/)
 
 ## About me
 
-Founder & Lead/Senior product engineer & consultant with professional experience in different domains who lives and works in Europe building inventive things. I can efficiently work with Front End, React Native, iOS, even Back End if necessary, I have great knowledge of UI/UX and Accessibility standards. I have expertise in the start-up ecosystem mainly by having had my own projects. My total time in IT is ~10 years now, most of the time I work with React and mobile apps. 
+Founder & product engineer with professional experience in different domains. I can efficiently work with Frontend, React Native, iOS and Fullstack as well as building CI/CD pipelines. I have great knowledge of UI/UX and Accessibility standards. I have expertise in the start-up ecosystem mainly by having had my own projects. My total time in software is  ~10 years now, most of the time I work with React and mobile apps.
 
 Quality and purpose mean all to me. 
 
-Languages and art adorer.
+Linguistics and travel adorer. Minimalist. Cosmopolite. Music Aesthete.
 
 ## Currently working on
 
-- [globallybased.com](https://globallybased.com) - Beyond-borders platform & newsletter for modern travellers & global citizens.
-- [webappboost.com](https://webappboost.com) - Powerful Nextjs template for SaaS projects.
-- [ilyagru.com](https://ilyagru.com) - Software Development Consulting.
+- [globallybased.com](https://globallybased.com) - Travel automation platform & newsletter for modern travellers & global citizens.
+- [webappboost.com](https://webappboost.com) - Powerful Nextjs boilerplate for SaaS projects.
+- [ilyagru.com](https://ilyagru.com) - Software development consulting.
 - Looking for a co-founder to start next Apple.
 - AI language learning research.
 
