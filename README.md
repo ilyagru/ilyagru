@@ -8,7 +8,7 @@
 
 ## About me
 
-Founder & product engineer with professional experience in different domains. I can efficiently work with Frontend, React Native, iOS and Fullstack as well as building CI/CD pipelines. I have great knowledge of UI/UX and Accessibility standards. I have expertise in the start-up ecosystem mainly by having had my own projects. My total time in software is  ~10 years now, most of the time I work with React and mobile apps.
+Founder & product engineer with professional experience in different domains. I can efficiently work with Frontend, React Native, iOS and Fullstack as well as building CI/CD pipelines. I have great knowledge of UI/UX and Accessibility standards. I have expertise in the start-up ecosystem mainly by having had my own projects. My total time in software is  ~10 years now.
 
 Quality and purpose mean all to me. 
 
