@@ -23,6 +23,7 @@ Linguistics and travel adorer. Minimalist. Cosmopolite. Music Aesthete.
 - [ilyagru.com](https://ilyagru.com) - Software development consulting.
 - Looking for a co-founder to start next Apple.
 - AI language learning research.
+- Always travelling.
 
 ## Stats
 
