@@ -29,9 +29,9 @@ Linguistics and travel adorer. Minimalist. Cosmopolite. Music Aesthete.
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme#readme -->
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyagru&count_private=true&theme=dark" />
-</a>
+<!-- <a href="#">  -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyagru&theme=dark" />  -->
+<!-- </a>  -->
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyagru&layout=compact&theme=dark" />
