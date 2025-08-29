@@ -6,10 +6,6 @@
 [![YC Badge](https://img.shields.io/badge/-YC_Cofounder-FB651E?style=flat&link=https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)](https://www.startupschool.org/cofounder-matching/candidate/Tow4F0cyR)
 [![Website Badge](https://img.shields.io/badge/-ilyagru.com-000000?style=flat&link=https://ilyagru.com/)](https://ilyagru.com/)
 
-## About me
-
-founder | product engineer | cosmopolite
-
 ## Currently working on
 
 - [globallybased.com](https://globallybased.com) - Travel automation platform & newsletter for modern travellers & global citizens.
