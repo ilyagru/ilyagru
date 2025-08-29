@@ -8,13 +8,7 @@
 
 ## About me
 
-Founder & product engineer with professional experience in different domains. I can efficiently work with Frontend, React Native, iOS and Fullstack as well as building CI/CD pipelines. I have great knowledge of UI/UX and Accessibility standards. 
-
-I have expertise in the start-up ecosystem mainly by having had my own projects (no big exit yet). Likewise, I'vet helped release 15+ mobile apps to stores and launch a bunch of SaaS. My total time in software is ~10 years now. 
-
-Quality and purpose mean all to me. 
-
-Linguistics and travel adorer. Minimalist. Cosmopolite. Music Aesthete.
+founder | product engineer | cosmopolite
 
 ## Currently working on
 
